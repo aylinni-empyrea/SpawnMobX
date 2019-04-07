@@ -1,4 +1,4 @@
-# SpawnMobX [![Github Releases](https://img.shields.io/github/downloads/deadsurgeon42/SpawnMobX/total.svg)](https://github.com/deadsurgeon42/SpawnMobX)
+# SpawnMobX [![GitHub Releases](https://img.shields.io/github/downloads/deadsurgeon42/SpawnMobX/total.svg)](https://github.com/deadsurgeon42/SpawnMobX/releases/latest/download/SpawnMobX.dll)
 🧟 *Spawn mobs with special properties!*
 
 Perfect for usage with [Command-Timelines](https://github.com/Enerdy/Command-Timelines).
