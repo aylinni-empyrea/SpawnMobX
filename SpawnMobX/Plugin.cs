@@ -235,7 +235,7 @@ namespace SpawnMobX
 
       if (results.Count > 1)
       {
-        TShock.Utils.SendMultipleMatchError(errorReceiver, results.Select(n => n.FullName));
+        errorReceiver.SendMultipleMatchError(results.Select(n => n.FullName));
         return false;
       }
 
